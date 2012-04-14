@@ -1,0 +1,7 @@
+My first project
+
+This is a GUI to add Repos in Fedora.
+Features:
+- Add repo from a web address
+- Quikly add repo file
+- Add install CD/DVD as a repo
